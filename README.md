@@ -42,7 +42,7 @@ text that gives me a description or instructions for each field.
  corresponding id="dropdown".
 - [x] Inside the form element, I can select a field from one or more groups of
 radio buttons. Each group should be grouped using the name attribute.
-- [ ] Inside the form element, I can select several fields from a series of
+- [x] Inside the form element, I can select several fields from a series of
 checkboxes, each of which must have a value attribute.
 - [ ] Inside the form element, I am presented with a textarea at the end for
 additional comments.
