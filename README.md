@@ -20,7 +20,7 @@ not recommended for this project, and using them is at your own risk.
 - [x] I can see a short explanation with ```id="description"``` in ```P``` sized
  text.
 - [x] I can see a ```form``` with ```id="survey-form"```.
-- [ ] Inside the ```form``` element, I am required to enter my name in a field
+- [x] Inside the ```form``` element, I am required to enter my name in a field
 with ```id="name"```.
 - [ ] Inside the form element, I am required to enter an email in a field with
 ```id="email"```.
