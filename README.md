@@ -16,25 +16,28 @@ not recommended for this project, and using them is at your own risk.
 
 ----
 ## User stories
-- [x] I can see a title with id="title" in H1 sized text.
-- [x] I can see a short explanation with id="description" in P sized text.
-- [ ] I can see a form with id="survey-form".
-- [ ] Inside the form element, I am required to enter my name in a field with
-id="name".
+- [x] I can see a title with ```id="title"``` in ```H1``` sized text.
+- [x] I can see a short explanation with ```id="description"``` in ```P``` sized
+ text.
+- [x] I can see a ```form``` with ```id="survey-form"```.
+- [ ] Inside the ```form``` element, I am required to enter my name in a field
+with ```id="name"```.
 - [ ] Inside the form element, I am required to enter an email in a field with
-id="email".
-- [ ] If I enter an email that is not formatted correctly, I will see an HTML5
+```id="email"```.
+- [ ] If I enter an email that is not formatted correctly, I will see an
+```HTML5``` validation error.
+- [ ] Inside the ```form```, I can enter a number in a field with
+```id="number"```.
+- [ ] If I enter non-numbers in the number input, I will see an ```HTML5```
 validation error.
-- [ ] Inside the form, I can enter a number in a field with id="number".
-- [ ] If I enter non-numbers in the number input, I will see an HTML5 validation
- error.
 - [ ] If I enter numbers outside the range of the number input, which are
-defined by the min and max attributes, I will see an HTML5 validation error.
+defined by the min and max attributes, I will see an ```HTML5``` validation
+error.
 - [ ] For the name, email, and number input fields inside the form I can see
 corresponding labels that describe the purpose of each field with the following
-ids: id="name-label", id="email-label", and id="number-label".
-- [ ] For the name, email, and number input fields, I can see placeholder text
-that gives me a description or instructions for each field.
+ids: ```id="name-label"```, ```id="email-label```, and ```id="number-label"```.
+- [ ] For the name, email, and number input fields, I can see ```placeholder```
+text that gives me a description or instructions for each field.
 - [ ] Inside the form element, I can select an option from a dropdown that has a
  corresponding id="dropdown".
 - [ ] Inside the form element, I can select a field from one or more groups of
@@ -48,6 +51,10 @@ submit all my inputs.
 
 ----
 ## Testing
-You can build your project by forking [this CodePen pen](https://codepen.io/freeCodeCamp/pen/MJjpwO). Or you can use [this CDN link](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js.) to run the tests in any environment you like.
+You can build your project by forking
+[this CodePen pen](https://codepen.io/freeCodeCamp/pen/MJjpwO). Or you can use
+[this CDN link](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js.)
+ to run the tests in any environment you like.
 
-This Project was designed by FreeCodeCamp Team. For more information and code challenges visit: https://www.freecodecamp.org/
+This Project was designed by FreeCodeCamp Team. For more information and code
+challenges visit: https://www.freecodecamp.org/
