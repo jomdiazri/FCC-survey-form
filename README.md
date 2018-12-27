@@ -40,7 +40,7 @@ ids: ```id="name-label"```, ```id="email-label```, and ```id="number-label"```.
 text that gives me a description or instructions for each field.
 - [x] Inside the form element, I can select an option from a dropdown that has a
  corresponding id="dropdown".
-- [ ] Inside the form element, I can select a field from one or more groups of
+- [x] Inside the form element, I can select a field from one or more groups of
 radio buttons. Each group should be grouped using the name attribute.
 - [ ] Inside the form element, I can select several fields from a series of
 checkboxes, each of which must have a value attribute.
