@@ -24,7 +24,7 @@ not recommended for this project, and using them is at your own risk.
 with ```id="name"```.
 - [x] Inside the form element, I am required to enter an email in a field with
 ```id="email"```.
-- [ ] If I enter an email that is not formatted correctly, I will see an
+- [x] If I enter an email that is not formatted correctly, I will see an
 ```HTML5``` validation error.
 - [ ] Inside the ```form```, I can enter a number in a field with
 ```id="number"```.
