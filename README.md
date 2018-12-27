@@ -26,9 +26,9 @@ with ```id="name"```.
 ```id="email"```.
 - [x] If I enter an email that is not formatted correctly, I will see an
 ```HTML5``` validation error.
-- [ ] Inside the ```form```, I can enter a number in a field with
+- [x] Inside the ```form```, I can enter a number in a field with
 ```id="number"```.
-- [ ] If I enter non-numbers in the number input, I will see an ```HTML5```
+- [x] If I enter non-numbers in the number input, I will see an ```HTML5```
 validation error.
 - [ ] If I enter numbers outside the range of the number input, which are
 defined by the min and max attributes, I will see an ```HTML5``` validation
