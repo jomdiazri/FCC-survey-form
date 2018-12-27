@@ -33,7 +33,7 @@ validation error.
 - [x] If I enter numbers outside the range of the number input, which are
 defined by the min and max attributes, I will see an ```HTML5``` validation
 error.
-- [ ] For the name, email, and number input fields inside the form I can see
+- [x] For the name, email, and number input fields inside the form I can see
 corresponding labels that describe the purpose of each field with the following
 ids: ```id="name-label"```, ```id="email-label```, and ```id="number-label"```.
 - [ ] For the name, email, and number input fields, I can see ```placeholder```
