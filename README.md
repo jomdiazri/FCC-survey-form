@@ -46,7 +46,7 @@ radio buttons. Each group should be grouped using the name attribute.
 checkboxes, each of which must have a value attribute.
 - [x] Inside the form element, I am presented with a textarea at the end for
 additional comments.
-- [ ] Inside the form element, I am presented with a button with id="submit" to
+- [x] Inside the form element, I am presented with a button with id="submit" to
 submit all my inputs.
 
 ----
