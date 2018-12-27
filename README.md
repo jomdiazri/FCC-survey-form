@@ -22,7 +22,7 @@ not recommended for this project, and using them is at your own risk.
 - [x] I can see a ```form``` with ```id="survey-form"```.
 - [x] Inside the ```form``` element, I am required to enter my name in a field
 with ```id="name"```.
-- [ ] Inside the form element, I am required to enter an email in a field with
+- [x] Inside the form element, I am required to enter an email in a field with
 ```id="email"```.
 - [ ] If I enter an email that is not formatted correctly, I will see an
 ```HTML5``` validation error.
