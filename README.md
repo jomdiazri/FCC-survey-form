@@ -30,7 +30,7 @@ with ```id="name"```.
 ```id="number"```.
 - [x] If I enter non-numbers in the number input, I will see an ```HTML5```
 validation error.
-- [ ] If I enter numbers outside the range of the number input, which are
+- [x] If I enter numbers outside the range of the number input, which are
 defined by the min and max attributes, I will see an ```HTML5``` validation
 error.
 - [ ] For the name, email, and number input fields inside the form I can see
